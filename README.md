@@ -1,6 +1,6 @@
 Features:
-  Krylov Subspace Methods: Implementation of GMRES, Conjugate Gradient (CG), and MINRES algorithms.
-  Preconditioning Techniques: Integration of preconditioners to accelerate solver convergence.
+Krylov Subspace Methods: Implementation of GMRES, Conjugate Gradient (CG), and MINRES algorithms.
+Preconditioning Techniques: Integration of preconditioners to accelerate solver convergence.
 
 Files in the Repository
   GlobalSolvers.py: Implements global solvers for handling Stokes systems with multiple right-hand sides.
